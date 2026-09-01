@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Alex 👋
 
-<!--
-**dimbata23/dimbata23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer at [Redis](https://github.com/redis) and a teaching assistant at Sofia University.
 
-Here are some ideas to get you started:
+Around here you'll find university coursework and teaching materials, experiments, puzzle solutions, and projects mostly in C++ and Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open-source work
+
+My professional open-source contributions live on my work account [@alexd-redis](https://github.com/alexd-redis).
+
+[![Open-source work at Redis](https://github-stats-extended.vercel.app/api?username=alexd-redis\&show_icons=true\&theme=transparent\&hide_border=true\&hide_rank=true\&custom_title=Open-source%20work%20at%20Redis)](https://github.com/alexd-redis)
+
+## Outside of code
+
+I'm usually climbing colorful plastic rocks, hiking, solving escape rooms, or playing video games.
