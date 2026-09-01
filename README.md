@@ -8,7 +8,7 @@ Around here you'll find university coursework and teaching materials, experiment
 
 My professional open-source contributions live on my work account [@alexd-redis](https://github.com/alexd-redis).
 
-[![Open-source work at Redis](https://github-stats-extended.vercel.app/api?username=alexd-redis\&show_icons=true\&theme=transparent\&hide_border=true\&hide_rank=true\&custom_title=Open-source%20work%20at%20Redis)](https://github.com/alexd-redis)
+[![alexd-redis profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexd-redis&theme=transparent&name=alexd-redis)](https://github.com/alexd-redis)
 
 ## Outside of code
 
