@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-I'm a software engineer at [Redis](https://github.com/redis) and a teaching assistant at Sofia University.
+I'm a software engineer at [Redis](https://github.com/redis) and a former teaching assistant at Sofia University.
 
 Around here you'll find university coursework and teaching materials, experiments, puzzle solutions, and projects mostly in C++ and Rust.
 
